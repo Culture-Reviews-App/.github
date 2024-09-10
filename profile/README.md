@@ -1,12 +1,9 @@
 ## Hi there 👋
+This is a repo for us to gain deeper knowledge about Go and Kotlin, also we want to develop a mobile app for users to write and see reviews about cultural activities.
 
-<!--
+**Here are some points:**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🙋‍♀️ A short introduction - we are a group of 2 people trying to learn new things.
+- 👩‍💻 Useful resources - resources we used will be in repositories.
+- 🍿 Fun facts - we love cinema and theatre!
+- 🧙 Remember, you can do mighty things with the power of love ❤️
